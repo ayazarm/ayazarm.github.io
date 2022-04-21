@@ -55,7 +55,7 @@ h1{
     .container{
         border: 2px solid #669bbc;
         border-radius: 2%;
-        
+
     }
     body{        
         background-size: inherit;
@@ -68,7 +68,8 @@ h1{
     .container{
         border: 2px solid #669bbc;
         border-radius: 2%;
-        
+        position: relative;
+        top: 150px;
     }
     body{        
         background-size: inherit;
